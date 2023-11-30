@@ -1,0 +1,46 @@
+{
+    "editor.fontSize": 15,
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.quickSuggestionsDelay": 5,
+    "C_Cpp.default.intelliSenseMode": "linux-gcc-arm",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "C_Cpp.intelliSenseEngineFallback": "disabled",
+    "files.exclude": {
+        "**/.hprof": true,
+        "**/.iml": true,
+        "**/.pyc": true,
+        "**/.pyo": true,
+        "**/.rbc": true,
+        "**/.yarb": true,
+        "**/*~": true,
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "**/__pycache__": true,
+        "**/_svn": true,
+        "**/target": true,
+        "**/vssver.scc": true,
+        "**/vssver2.scc": true,
+        "**/*.o": true,
+        "**/*.cmd": true,
+        // "**/.*": true,
+        "**/*.o.d": true,
+        "**/.idea": true
+    },
+    "cSpell.enabled": true,
+    "files.associations": {
+        "*.tcc": "c",
+        "cdev.h": "c",
+        "unistd.h": "c",
+        "init.h": "c",
+        "module.h": "c",
+        "miscdevice.h": "c"
+    }
+    
+}

@@ -1,0 +1,1 @@
+cmd_/home/wangml71/mydrivercode/ultratest/mymisc.ko := arm-linux-gnueabi-ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/wangml71/mydrivercode/ultratest/mymisc.ko /home/wangml71/mydrivercode/ultratest/mymisc.o /home/wangml71/mydrivercode/ultratest/mymisc.mod.o;  true

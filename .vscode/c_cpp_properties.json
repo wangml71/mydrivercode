@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                // "/usr/include/**",
+                // "/usr/arm-linux-gnueabi/include/**",
+                "/home/wangml71/kernels/linux-5.10.186/**",
+                "/home/wangml71/kernels/objects/vexpress-v2p-ca9/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/arm-linux-gnueabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-arm",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
