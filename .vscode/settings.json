@@ -42,7 +42,7 @@
         "module.h": "c",
         "miscdevice.h": "c"
     },
-    // "github-enterprise.uri": "https://gitee.com/wang-mingling/stage2_storage_wangml71.git",
+    "github-enterprise.uri": "https://gitee.com/wang-mingling/mydrivercode.git",
     "gitee.gist": "9bwhtulocd2m3ag70y1pf78",
     "gitee.access_token": "f7dc5d9fffc88f573dfa4572d0abd948",
 }
